@@ -1,0 +1,395 @@
+@media (max-width: 1242px) {
+  .openingSection .btn {
+    padding: 21px 36px;
+    font-size: 13px;
+  }
+  .backgroundMobile {
+    display: none;
+  }
+  .footerSection {
+    height: 500px;
+  }
+  form button {
+    left: 64%;
+  }
+  .contact {
+    width: 40%;
+  }
+  .support,
+  .info {
+    width: 30%;
+  }
+}
+/* @media (min-width: 995px) and (max-width: 1200px) {
+  .backgroundImgs {
+    display: none;
+  }
+} */
+
+@media (max-width: 995px) {
+  .logoNav {
+    width: 95%;
+  }
+  .container {
+    width: 90%;
+  }
+  .navBar {
+    width: 70%;
+  }
+  .openingSection .btn {
+    padding: 21px 34px;
+    font-size: 13px;
+  }
+  .getDelivered .decorCoffee,
+  .cupCoffee,
+  .backgroundPhoto,
+  .dotsGroup,
+  .largeLine,
+  .shape,
+  .leave,
+  .backgroundPics {
+    display: none;
+  }
+  .appleApp,
+  .googleApp {
+    padding: 4px 7px;
+  }
+  .productContent {
+    margin-bottom: 8%;
+  }
+  .foods .productContent .product {
+    margin-left: 1.6rem;
+    margin-bottom: -7rem;
+  }
+  .foodCountainer {
+    width: 45%;
+  }
+  form button {
+    left: 66.5%;
+  }
+  .footerSection {
+    height: 100%;
+  }
+  .foods {
+    flex-wrap: wrap;
+  }
+  .foods .productContent {
+    width: 50%;
+  }
+  .footerSection {
+    padding: 80px 50px;
+    height: 500px;
+  }
+  form button {
+    left: 60.5%;
+  }
+  .contact {
+    width: 100%;
+  }
+  .support,
+  .info {
+    width: 50%;
+  }
+}
+
+@media (max-width: 913px) {
+  .openingSection .btn {
+    padding: 21px 31px;
+    font-size: 10px;
+  }
+  form button {
+    left: 62.5%;
+  }
+}
+@media (max-width: 786px) {
+  .container {
+    width: 95%;
+  }
+  .flex {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+
+  .backgroundPhoto,
+  .navBar,
+  .shape,
+  .leave,
+  .deliveryMan {
+    display: none;
+  }
+
+  .openingSection {
+    position: relative;
+  }
+  .mainSection .rightPart {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    opacity: 0.3;
+  }
+  .mainSection .leftPart {
+    width: 70%;
+  }
+  .iconsBar {
+    margin-right: 77px;
+    margin-top: 7px;
+  }
+  .openingSection .btn {
+    padding: 19px 25px;
+  }
+  .onlineDelivered .leftPart div .btn {
+    margin-right: 0;
+    padding: 2px 46px;
+    font-size: 12px;
+  }
+  .mainText {
+    margin-bottom: 70px;
+  }
+  .foods {
+    flex-wrap: wrap;
+  }
+  .foods .productContent {
+    width: 100%;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 40px;
+  }
+  .foods .productContent .product {
+    margin: 0 -12px -120px -30px;
+  }
+
+  header .iconsBar .baskeet::after {
+    right: 37.5%;
+    top: -21.5%;
+  }
+  .backgroundImgs,
+  .largeLine,
+  .backgroundPics {
+    display: none;
+  }
+  .onlineDelivered .leftPart {
+    margin: auto;
+    width: 28%;
+  }
+  .popularProducts {
+    margin-bottom: 140px;
+  }
+
+  .onlineDelivered .rightPart .deliverdHot {
+    padding-right: 0;
+    width: 100%;
+  }
+  .onlineDelivered .rightPart .deliverdHot .deliveryServiceP {
+    width: 50%;
+    font-size: 15px;
+    padding-top: 7px;
+    padding-left: 20px;
+  }
+  .onlineDelivered .rightPart .deliverdHot .deliveryServiceP img {
+    margin-top: -21px;
+  }
+  .foodTime {
+    gap: 1rem;
+    flex-wrap: nowrap;
+    margin-right: 9rem;
+  }
+  .startPopularMenu {
+    width: 100%;
+  }
+  .picsContainer .foodCountainer {
+    width: 60%;
+    margin: 15px auto;
+  }
+  .backgroundMobile,
+  .shapeBackground {
+    display: none;
+  }
+  .mobilePic {
+    width: 70%;
+    margin: auto;
+  }
+  .mobileApp {
+    flex-wrap: wrap;
+    margin: 0;
+  }
+  .textMobile {
+    margin: 0px auto;
+    width: 65%;
+    padding-bottom: 40px;
+  }
+  .googleApp {
+    margin-right: 18%;
+  }
+  .humanPic {
+    width: 100%;
+  }
+  .california .arizona {
+    margin-right: 18%;
+  }
+  .human {
+    text-align: center;
+  }
+  .footerSection .flex {
+    flex-wrap: nowrap;
+  }
+  .footerSection {
+    padding: 70px 5px;
+    height: 540px;
+  }
+  .flySection {
+    width: 70%;
+    margin-bottom: -54px;
+  }
+  form {
+    position: relative;
+  }
+  form button {
+    height: 43px;
+    margin-top: 4px;
+    left: 67%;
+  }
+  footer ul {
+    margin: 0 20px 0 10px;
+  }
+  footer ul:first-of-type {
+    margin-left: 0;
+  }
+  .footerLogo {
+    margin-top: 10%;
+  }
+  .contact {
+    width: 100%;
+  }
+  .support,
+  .info {
+    width: 50%;
+  }
+}
+
+@media only screen and (max-width: 576px) {
+  .container {
+    width: 95%;
+  }
+
+  .iconsBar {
+    margin-right: 0;
+  }
+  .deliveryMan {
+    display: none;
+  }
+
+  .openingSection .btn {
+    margin-right: 17px;
+    font-size: 8px;
+    padding: 14px 27px;
+    flex-wrap: nowrap;
+  }
+  .onlineDelivered .leftPart {
+    margin: auto;
+    width: 40%;
+  }
+  .onlineDelivered .leftPart div .btn {
+    margin-right: 0;
+    padding: 2px 46px;
+    font-size: 12px;
+  }
+  header .iconsBar .baskeet::after {
+    top: -20.5%;
+    right: 37.5%;
+  }
+  .mainSection .leftPart .mainText h1 {
+    font-size: 135px;
+  }
+  .mainSection .leftPart .mainText h1::after {
+    left: 107%;
+    top: 9%;
+  }
+  .mainSection .leftPart .mainText .onlineOrder {
+    font-size: 13px;
+  }
+  .mainSection .leftPart .mainText .yogurt {
+    font-size: 17px;
+    line-height: 28px;
+  }
+  .openingSection .btn {
+    margin-bottom: 5px;
+  }
+  .foodTime div h3 {
+    font-size: 20px;
+  }
+  .onlineDelivered .leftPart div .btn {
+    padding: 2px 44px;
+    font-size: 9px;
+  }
+  .onlineDelivered .rightPart .deliverdHot {
+    padding: 5px;
+  }
+  .onlineDelivered .rightPart .deliverdHot .deliveryServiceP {
+    width: 65%;
+    font-size: 12px;
+    padding-top: 15px;
+    padding-left: 14px;
+  }
+  .deliverdHot .btn {
+    padding: 13px 26px;
+  }
+  .startPopularMenu .popularMenuH {
+    font-size: 59px;
+    line-height: 63px;
+  }
+  .picsContainer .foodCountainer {
+    width: 85%;
+  }
+  .textAppDownload h3 {
+    font-size: 49px;
+  }
+  .textMobile {
+    width: 90%;
+  }
+  .appleApp,
+  .googleApp {
+    padding: 5px 6px;
+  }
+  .logoImages {
+    flex-wrap: nowrap;
+  }
+  .flySection {
+    width: 85%;
+  }
+  form input {
+    width: 270px;
+    height: 43px;
+    margin-top: 4px;
+    left: 0;
+    font-size: 11px;
+  }
+  form button {
+    height: 35px;
+    margin-top: 8px;
+    left: 59%;
+  }
+  .footerSection {
+    height: 100%;
+  }
+  footer ul:first-of-type {
+    width: 100%;
+  }
+  .footerSection .flex {
+    flex-wrap: wrap;
+  }
+  .footerLogo {
+    margin: auto;
+    margin-bottom: 30px;
+  }
+  .yannalEnd {
+    margin-top: 60px;
+  }
+  .contact {
+    width: 100%;
+  }
+  .support,
+  .info {
+    width: 50%;
+  }
+}
